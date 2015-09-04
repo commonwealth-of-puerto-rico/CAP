@@ -1,0 +1,9 @@
+[submodule "prgov_gmq_cap_workers"]
+	path = prgov_gmq_cap_workers
+	url = https://github.com/commonwealth-of-puerto-rico/prgov_gmq_cap_workers.git
+[submodule "prgov_gmq_cap_api"]
+	path = prgov_gmq_cap_api
+	url = https://github.com/commonwealth-of-puerto-rico/prgov_gmq_cap_api.git
+[submodule "prgov_cap_webapp"]
+	path = prgov_cap_webapp
+	url = https://github.com/commonwealth-of-puerto-rico/prgov_cap_webapp.git
