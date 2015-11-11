@@ -7,3 +7,6 @@
 [submodule "prgov_cap_webapp"]
 	path = prgov_cap_webapp
 	url = https://github.com/commonwealth-of-puerto-rico/prgov_cap_webapp.git
+[submodule "prgov_phonegap"]
+	path = prgov_phonegap
+	url = https://github.com/commonwealth-of-puerto-rico/prgov_phonegap.git
